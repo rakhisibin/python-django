@@ -1,2 +1,2 @@
 # python-django
-PG website written in django
+ website written in django
